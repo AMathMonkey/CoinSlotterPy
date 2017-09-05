@@ -1,0 +1,5 @@
+5.00 false
+10.00 false
+20.00 false
+50.00 false
+100.00 false

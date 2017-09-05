@@ -1,0 +1,5 @@
+0.05 true
+0.10 true
+0.25 true
+1.00 true
+2.00 true
