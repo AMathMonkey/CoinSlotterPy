@@ -31,6 +31,7 @@ class MainWindow(object):
                 for line in file:
                     line_data = line.split()
                     self.coin_slots.append(CoinSlot(float(line_data[0]), line_data[1].lower() == "true"))
+                file.close()
 
             i = 0
             for i, coin_slot in enumerate(self.coin_slots):
